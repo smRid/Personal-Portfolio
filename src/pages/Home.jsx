@@ -188,7 +188,7 @@ export default function Home() {
                   <TiStarburst className='mt-0.5 text-gray-300' />
                   <div>
                     <h5 className='text-sm text-white font-medium  font-robo'>Node</h5>
-                    <p className='text-xs text-gray-400 font-normal  font-robo' >Basic</p>
+                    <p className='text-xs text-gray-400 font-normal  font-robo' >Intermediate</p>
                   </div>
                 </Flex>
 
