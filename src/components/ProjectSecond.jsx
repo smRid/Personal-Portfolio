@@ -106,8 +106,8 @@ export default function ProjectSecond() {
             <Link to='https://smrid.github.io/Signup-Form/#'>
           <EventProject heading="Signup Form" para="Html" src={htmlProject6}/>
             </Link>
-          <Link to="https://project-17-combian.vercel.app/">
-          <EventProject heading="Combine" para="Jscript" src={javaScriptProject7}/>
+          <Link to="https://smrid.github.io/Apple-E-commerce/">
+          <EventProject heading="Apple E-commerce" para="Jscript" src={javaScriptProject7}/>
           </Link>
           <Link to="https://smrid.github.io/Agenc-project/">
           <EventProject heading="Agenc Website" para="Html" src={htmlProject2}/>
@@ -151,8 +151,8 @@ export default function ProjectSecond() {
           <Link to="https://react-search-zeta.vercel.app/">
           <EventProject heading="Search Design" para="React" src={reactProject2}/>
           </Link>
-          <Link to="https://project-18-calculator.vercel.app/">
-          <EventProject heading="Calculator" para="Jscript" src={javaScriptProject8}/>
+          <Link to="https://smrid.github.io/Travel-Agency/">
+          <EventProject heading="Travel Booking App" para="Jscript" src={javaScriptProject8}/>
           </Link>
           <Link to="https://smrid.github.io/Bookmark-App/">
           <EventProject heading="Bookmark App" para="Jscript" src={javaScriptProject4}/>
@@ -190,8 +190,8 @@ export default function ProjectSecond() {
         :
         activeIndex===2?(
           <Slider {...settings}>
-          <Link to="https://project-17-combian.vercel.app/">
-          <EventProject heading="Combine" para="Jscript" src={javaScriptProject7}/>
+          <Link to="https://smrid.github.io/Apple-E-commerce/">
+          <EventProject heading="Apple E-coomerce" para="Jscript" src={javaScriptProject7}/>
           </Link>
           <Link to="https://smrid.github.io/Notes-App/#">
           <EventProject heading="Notes App" para="Jscript" src={javaScriptProject2}/>
@@ -205,8 +205,8 @@ export default function ProjectSecond() {
           <Link to="javaScriptProject3.png">
           <EventProject heading="Expense Tracker App" para="Jscript" src={javaScriptProject3}/>
           </Link>
-          <Link to="https://project-18-calculator.vercel.app/">
-          <EventProject heading="Calculator" para="Jscript" src={javaScriptProject8}/>
+          <Link to="https://smrid.github.io/Travel-Agency/">
+          <EventProject heading="Travel Booking App" para="Jscript" src={javaScriptProject8}/>
           </Link>
           <Link to="https://smrid.github.io/Bookmark-App/">
           <EventProject heading="Bookmark App" para="Jscript" src={javaScriptProject4}/>
