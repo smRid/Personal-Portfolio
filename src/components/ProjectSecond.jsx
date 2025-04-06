@@ -109,8 +109,8 @@ export default function ProjectSecond() {
           <Link to="https://project-17-combian.vercel.app/">
           <EventProject heading="Combine" para="Jscript" src={javaScriptProject7}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-2_Finsweet/">
-          <EventProject heading="Finsweet Design" para="Html" src={htmlProject2}/>
+          <Link to="https://smrid.github.io/Agenc-project/">
+          <EventProject heading="Agenc Website" para="Html" src={htmlProject2}/>
           </Link>
           <Link to="https://project-12-slider.vercel.app/">
           <EventProject heading="Slider" para="Jscript" src={javaScriptProject2}/>
@@ -145,8 +145,8 @@ export default function ProjectSecond() {
           <Link to="https://project-13-facebook-demo.vercel.app/">
           <EventProject heading="Facebook Demo" para="Jscript" src={javaScriptProject3}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project_1/">
-          <EventProject heading="Stack Design" para="Html" src={htmlProject1}/>
+          <Link to="https://smrid.github.io/PSD-Project/">
+          <EventProject heading="Photographer Portfolio" para="Html" src={htmlProject1}/>
           </Link>
           <Link to="https://react-search-zeta.vercel.app/">
           <EventProject heading="Search Design" para="React" src={reactProject2}/>
@@ -167,8 +167,8 @@ export default function ProjectSecond() {
           <Link to="https://sajibkhandev.github.io/Project-3_Innovate/">
           <EventProject heading="Innovate2 Design" para="Html" src={htmlProject3}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-2_Finsweet/">
-          <EventProject heading="Finsweet Design" para="Html" src={htmlProject2}/>
+          <Link to="https://smrid.github.io/Agenc-project/">
+          <EventProject heading="Agenc Website" para="Html" src={htmlProject2}/>
           </Link>
           <Link to="https://sajibkhandev.github.io/Project-4_InnovateYouSulition/">
           <EventProject heading="You Sulition Design" para="Html" src={htmlProject4}/>
@@ -179,8 +179,8 @@ export default function ProjectSecond() {
           <Link to="https://sajibkhandev.github.io/Project-6_Omha/">
           <EventProject heading="Ohma Design" para="Html" src={htmlProject6}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project_1/">
-          <EventProject heading="Stack Design" para="Html" src={htmlProject1}/>
+          <Link to="https://smrid.github.io/PSD-Project/">
+          <EventProject heading="Photographer Portfolio" para="Html" src={htmlProject1}/>
           </Link>
           <Link to="https://sajibkhandev.github.io/Project-8_Qwery/">
           <EventProject heading="Query Design" para="Html" src={htmlProject8}/>
