@@ -12,6 +12,7 @@ import Error from './pages/Error';
 import CaseStudyPage from './pages/CaseStudyPage';
 import CaseStudyPage2 from './pages/CaseStudyPage2';
 import CaseStudyPage3 from './pages/CaseStudyPage3';
+import CaseStudyPage4 from './pages/CaseStudyPage4';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -37,6 +38,11 @@ const router = createBrowserRouter(
         <Route
         path="/casestudy3"
         element={<CaseStudyPage3 />} >
+        </Route>
+
+        <Route
+        path="/casestudy4"
+        element={<CaseStudyPage4 />} >
         </Route>
 
         <Route

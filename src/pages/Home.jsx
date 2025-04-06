@@ -346,7 +346,7 @@ export default function Home() {
             <RouterLink to='/casestudy4'>
               <div className='md:ml-6'>
                 <h3 className='p-2 group/project1 w:full px-10 md:px-0 md:w-[350px] lg:w-w412 text-white md:mr-12 lg:mr-16 text-lg md:text-[22px] lg:text-[24px] font-medium font-robo pb-6 md:pb-10 text-center sm:px-20 lg:pt-8 md:leading-[32px] lg:leading-[40px]'>
-                A Cryptocurrency real-time price tracking web application.
+                A virtual reality software platform landing page.
                 </h3>
                 <RouterLink to='/casestudy4' className='relative group/project1'>
                   <div className='relative hidden md:block'>
