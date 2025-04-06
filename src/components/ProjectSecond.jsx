@@ -103,8 +103,8 @@ export default function ProjectSecond() {
       {
         activeIndex===0?(
           <Slider {...settings}>
-            <Link to='https://sajibkhandev.github.io/Project-6_Omha/'>
-          <EventProject heading="Ohma Design" para="Html" src={htmlProject6}/>
+            <Link to='https://smrid.github.io/Signup-Form/#'>
+          <EventProject heading="Signup Form" para="Html" src={htmlProject6}/>
             </Link>
           <Link to="https://project-17-combian.vercel.app/">
           <EventProject heading="Combine" para="Jscript" src={javaScriptProject7}/>
@@ -112,23 +112,23 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Agenc-project/">
           <EventProject heading="Agenc Website" para="Html" src={htmlProject2}/>
           </Link>
-          <Link to="https://project-12-slider.vercel.app/">
-          <EventProject heading="Slider" para="Jscript" src={javaScriptProject2}/>
+          <Link to="https://smrid.github.io/Notes-App/#">
+          <EventProject heading="Notes App" para="Jscript" src={javaScriptProject2}/>
           </Link>
          <Link to="https://smrid.github.io/Contact-Form-Animation/">
           <EventProject heading="Contact Form" para="Html" src={htmlProject5}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-8_Qwery/">
-          <EventProject heading="Query Design" para="Html" src={htmlProject8}/>
+          <Link to="https://smrid.github.io/Card-design-Figma-to-Html/">
+          <EventProject heading="Card Design" para="Html" src={htmlProject8}/>
           </Link>
           <Link to="https://react-game-nu.vercel.app/">
           <EventProject heading="Game Design" para="React" src={reactProject1}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-7_Innovate2/">
-          <EventProject heading="Innovate Design" para="Html" src={htmlProject7}/>
+          <Link to="https://smrid.github.io/Figma-MedicalFunc-/">
+          <EventProject heading="Medical Website" para="Html" src={htmlProject7}/>
           </Link>
-          <Link to="https://project-16-counter.vercel.app/">
-          <EventProject heading="Counter" para="Jscript" src={javaScriptProject6}/>
+          <Link to="https://smrid.github.io/Drag-and-Drop-Board/">
+          <EventProject heading="Drah and Drop" para="Jscript" src={javaScriptProject6}/>
           </Link>
           <Link to="https://react-todo-three-tawny.vercel.app/">
           <EventProject heading="Todo Design" para="React" src={reactProject3}/>
@@ -142,8 +142,8 @@ export default function ProjectSecond() {
           <Link to="https://react-form-jade.vercel.app/">
           <EventProject heading="Form Design" para="React" src={reactProject4}/>
           </Link>
-          <Link to="https://project-13-facebook-demo.vercel.app/">
-          <EventProject heading="Facebook Demo" para="Jscript" src={javaScriptProject3}/>
+          <Link to="javaScriptProject3.png">
+          <EventProject heading="Expense Tracker Appp" para="Jscript" src={javaScriptProject3}/>
           </Link>
           <Link to="https://smrid.github.io/PSD-Project/">
           <EventProject heading="Photographer Portfolio" para="Html" src={htmlProject1}/>
@@ -154,15 +154,15 @@ export default function ProjectSecond() {
           <Link to="https://project-18-calculator.vercel.app/">
           <EventProject heading="Calculator" para="Jscript" src={javaScriptProject8}/>
           </Link>
-          <Link to="https://react-todo-ug9s.vercel.app/">
-          <EventProject heading="Multipul Game" para="Jscript" src={javaScriptProject4}/>
+          <Link to="https://smrid.github.io/Bookmark-App/">
+          <EventProject heading="Bookmark App" para="Jscript" src={javaScriptProject4}/>
           </Link>
         </Slider>)
         :
         activeIndex===1?(
           <Slider {...settings}>
-           <Link to="https://sajibkhandev.github.io/Project-7_Innovate2/">
-          <EventProject heading="Innovate Design" para="Html" src={htmlProject7}/>
+           <Link to="https://smrid.github.io/Figma-MedicalFunc-/">
+          <EventProject heading="Medical Website" para="Html" src={htmlProject7}/>
           </Link>
           <Link to="https://smrid.github.io/Responsive-Landing-Page/">
           <EventProject heading="Food Website" para="Html" src={htmlProject3}/>
@@ -176,14 +176,14 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Contact-Form-Animation/">
           <EventProject heading="Contact Form" para="Html" src={htmlProject5}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-6_Omha/">
-          <EventProject heading="Ohma Design" para="Html" src={htmlProject6}/>
+          <Link to="https://smrid.github.io/Signup-Form/#">
+          <EventProject heading="Signup Form" para="Html" src={htmlProject6}/>
           </Link>
           <Link to="https://smrid.github.io/PSD-Project/">
           <EventProject heading="Photographer Portfolio" para="Html" src={htmlProject1}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-8_Qwery/">
-          <EventProject heading="Query Design" para="Html" src={htmlProject8}/>
+          <Link to="https://smrid.github.io/Card-design-Figma-to-Html/">
+          <EventProject heading="Card Design" para="Html" src={htmlProject8}/>
           </Link>
           
         </Slider>)
@@ -193,23 +193,23 @@ export default function ProjectSecond() {
           <Link to="https://project-17-combian.vercel.app/">
           <EventProject heading="Combine" para="Jscript" src={javaScriptProject7}/>
           </Link>
-          <Link to="https://project-12-slider.vercel.app/">
-          <EventProject heading="Slider" para="Jscript" src={javaScriptProject2}/>
+          <Link to="https://smrid.github.io/Notes-App/#">
+          <EventProject heading="Notes App" para="Jscript" src={javaScriptProject2}/>
           </Link>
           <Link to="https://project-19-countdown-6ex3.vercel.app/">
           <EventProject heading="CountDown" para="Jscript" src={javaScriptProject9}/>
           </Link>
-          <Link to="https://project-16-counter.vercel.app/">
-          <EventProject heading="Counter" para="Jscript" src={javaScriptProject6}/>
+          <Link to="https://smrid.github.io/Drag-and-Drop-Board/">
+          <EventProject heading="Drag and Drop" para="Jscript" src={javaScriptProject6}/>
           </Link>
-          <Link to="https://project-13-facebook-demo.vercel.app/">
-          <EventProject heading="Facebook Demo" para="Jscript" src={javaScriptProject3}/>
+          <Link to="javaScriptProject3.png">
+          <EventProject heading="Expense Tracker App" para="Jscript" src={javaScriptProject3}/>
           </Link>
           <Link to="https://project-18-calculator.vercel.app/">
           <EventProject heading="Calculator" para="Jscript" src={javaScriptProject8}/>
           </Link>
-          <Link to="https://react-todo-ug9s.vercel.app/">
-          <EventProject heading="Multipul Game" para="Jscript" src={javaScriptProject4}/>
+          <Link to="https://smrid.github.io/Bookmark-App/">
+          <EventProject heading="Bookmark App" para="Jscript" src={javaScriptProject4}/>
           </Link>
         </Slider>)
         :
