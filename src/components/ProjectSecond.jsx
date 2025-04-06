@@ -121,8 +121,8 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Card-design-Figma-to-Html/">
           <EventProject heading="Card Design" para="Html" src={htmlProject8}/>
           </Link>
-          <Link to="https://react-game-nu.vercel.app/">
-          <EventProject heading="Game Design" para="React" src={reactProject1}/>
+          <Link to="https://simple-todo-list-r3nast9ja-sm-riduans-projects.vercel.app/">
+          <EventProject heading="To-do list App" para="React" src={reactProject1}/>
           </Link>
           <Link to="https://smrid.github.io/Figma-MedicalFunc-/">
           <EventProject heading="Medical Website" para="Html" src={htmlProject7}/>
@@ -130,8 +130,8 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Drag-and-Drop-Board/">
           <EventProject heading="Drah and Drop" para="Jscript" src={javaScriptProject6}/>
           </Link>
-          <Link to="https://react-todo-three-tawny.vercel.app/">
-          <EventProject heading="Todo Design" para="React" src={reactProject3}/>
+          <Link to="https://mordern-restaurant-app.vercel.app/?index">
+          <EventProject heading="Restaurent App" para="React" src={reactProject3}/>
           </Link>
           <Link to="https://smrid.github.io/Responsive-Landing-Page/">
           <EventProject heading="Food Website" para="Html" src={htmlProject3}/>
@@ -148,8 +148,8 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/PSD-Project/">
           <EventProject heading="Photographer Portfolio" para="Html" src={htmlProject1}/>
           </Link>
-          <Link to="https://react-search-zeta.vercel.app/">
-          <EventProject heading="Search Design" para="React" src={reactProject2}/>
+          <Link to="https://image-cropper-topaz.vercel.app/">
+          <EventProject heading="Image Cropper" para="React" src={reactProject2}/>
           </Link>
           <Link to="https://smrid.github.io/Travel-Agency/">
           <EventProject heading="Travel Agency" para="Jscript" src={javaScriptProject8}/>
@@ -214,17 +214,17 @@ export default function ProjectSecond() {
         </Slider>)
         :
         (<Slider {...settings}>
-          <Link to="https://react-search-zeta.vercel.app/">
-          <EventProject heading="Search Design" para="React" src={reactProject2}/>
+          <Link to="https://image-cropper-topaz.vercel.app/">
+          <EventProject heading="Image Cropper" para="React" src={reactProject2}/>
           </Link>
-          <Link to="https://react-todo-three-tawny.vercel.app/">
-          <EventProject heading="Todo Design" para="React" src={reactProject3}/>
+          <Link to="https://mordern-restaurant-app.vercel.app/?index">
+          <EventProject heading="Restaurent App" para="React" src={reactProject3}/>
           </Link>
           <Link to="https://react-form-jade.vercel.app/">
           <EventProject heading="Form Design" para="React" src={reactProject4}/>
           </Link>
-          <Link to="https://react-game-nu.vercel.app/">
-          <EventProject heading="Game Design" para="React" src={reactProject1}/>
+          <Link to="https://simple-todo-list-r3nast9ja-sm-riduans-projects.vercel.app/">
+          <EventProject heading="To-do List App" para="React" src={reactProject1}/>
           </Link>
          
           
