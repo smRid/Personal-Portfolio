@@ -152,7 +152,7 @@ export default function ProjectSecond() {
           <EventProject heading="Search Design" para="React" src={reactProject2}/>
           </Link>
           <Link to="https://smrid.github.io/Travel-Agency/">
-          <EventProject heading="Travel Booking App" para="Jscript" src={javaScriptProject8}/>
+          <EventProject heading="Travel Agency" para="Jscript" src={javaScriptProject8}/>
           </Link>
           <Link to="https://smrid.github.io/Bookmark-App/">
           <EventProject heading="Bookmark App" para="Jscript" src={javaScriptProject4}/>
@@ -196,8 +196,8 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Notes-App/#">
           <EventProject heading="Notes App" para="Jscript" src={javaScriptProject2}/>
           </Link>
-          <Link to="https://project-19-countdown-6ex3.vercel.app/">
-          <EventProject heading="CountDown" para="Jscript" src={javaScriptProject9}/>
+          <Link to="https://smrid.github.io/Light-and-Dark-Mode/">
+          <EventProject heading="Light & Dark Mode" para="Jscript" src={javaScriptProject9}/>
           </Link>
           <Link to="https://smrid.github.io/Drag-and-Drop-Board/">
           <EventProject heading="Drag and Drop" para="Jscript" src={javaScriptProject6}/>
@@ -206,7 +206,7 @@ export default function ProjectSecond() {
           <EventProject heading="Expense Tracker App" para="Jscript" src={javaScriptProject3}/>
           </Link>
           <Link to="https://smrid.github.io/Travel-Agency/">
-          <EventProject heading="Travel Booking App" para="Jscript" src={javaScriptProject8}/>
+          <EventProject heading="Travel Agency" para="Jscript" src={javaScriptProject8}/>
           </Link>
           <Link to="https://smrid.github.io/Bookmark-App/">
           <EventProject heading="Bookmark App" para="Jscript" src={javaScriptProject4}/>
