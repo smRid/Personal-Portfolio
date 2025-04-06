@@ -429,7 +429,7 @@ export default function Home() {
       </Section> */}
 
   
-      <Contact />
+      {/* <Contact /> */}
 
 
       {/* ------------------------Contact Section end------------------------- */}
