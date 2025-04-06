@@ -18,7 +18,7 @@ import project1 from '../assets/project1.png'
 import project2 from '../assets/project2.png'
 import project3 from '../assets/project3.png'
 import project4 from '../assets/project4.png'
-import CV from '../assets/SajibKhanCV.pdf'
+import CV from '../assets/Sarker Mohammad Riduan CV.pdf'
 
 
 import ServiceCard from '../components/ServiceCard'
