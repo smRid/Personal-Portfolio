@@ -11,6 +11,7 @@ import Home from './pages/Home';
 import Error from './pages/Error';
 import CaseStudyPage from './pages/CaseStudyPage';
 import CaseStudyPage2 from './pages/CaseStudyPage2';
+import CaseStudyPage3 from './pages/CaseStudyPage3';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -31,6 +32,11 @@ const router = createBrowserRouter(
         <Route
         path="/casestudy2"
         element={<CaseStudyPage2 />} >
+        </Route>
+
+        <Route
+        path="/casestudy3"
+        element={<CaseStudyPage3 />} >
         </Route>
 
         <Route

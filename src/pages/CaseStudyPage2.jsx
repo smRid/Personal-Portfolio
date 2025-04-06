@@ -1,14 +1,13 @@
 import React, { useEffect } from 'react'
 import Button from '../components/Button'
 import Image from '../components/Image'
-import project1 from '../assets/project1.png'
 import project2 from '../assets/project2.png'
 import Section from '../components/Section'
 import Container from '../components/Container'
 import Flex from '../components/Flex'
 import { Link } from 'react-router-dom'
 
-export default function CaseStudyPage() {
+export default function CaseStudyPage2() {
   useEffect(()=>{
     window.scrollTo({ top: 0})
   })
@@ -16,13 +15,13 @@ export default function CaseStudyPage() {
     <Section className='bg-third py-20 md:py-32'>
         <Container>
         <h2 className='text-black text-text50 font-semibold font-robo pb-5 text-center'>Orebi</h2>
-        <p className='w-full md:w-[780px] px-4 md:px-4  mx-auto text-black text-sm md:text-lg font-normal font-robo  text-center pb-7 md:pb-14'>This page contains the case study of Orebi E-commerce Project which includes the Project Overview, Tools Used and Live Links to the official product.</p>
+        <p className='w-full md:w-[780px] px-4 md:px-4  mx-auto text-black text-sm md:text-lg font-normal font-robo  text-center pb-7 md:pb-14'>This page provides a comprehensive overview of the Orebi E-commerce project, including key details such as the project summary, technologies used, and live links to the official product.</p>
         <Link to="https://github.com/smRid/Orebi-Ecommerce">
         
         <Button text="Project Link"  className='flex mx-auto '/>
         </Link>
         
-        <Image src={project2} className='mx-auto pt-10 md:pt-20 md:w-[600px] px-12 md:px-0' />
+        <Image src={project2} className='mx-auto pt-10 md:pt-20 md:w-[800px] px-12 md:px-0' />
 
         <div className='pt-12 md:pt-16 md:w-[900px] mx-auto px-4 md:px-0'>
         <h3 className='text-black text-xl md:text-3xl font-semibold font-robo pb-5'>Project Overview</h3>

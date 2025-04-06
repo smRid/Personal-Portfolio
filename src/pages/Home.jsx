@@ -316,7 +316,7 @@ export default function Home() {
             </RouterLink>
             <RouterLink to='/casestudy3'>
               <div className='md:ml-6'>
-                <h3 className='p-2 group/project3 w:full px-10 md:px-0 md:w-[350px] lg:w-w412 text-white md:mr-12 lg:mr-16 text-lg md:text-[22px] lg:text-[24px] font-medium font-robo pb-6 md:pb-10 text-center sm:px-20 lg:pt-8 md:leading-[32px] lg:leading-[40px]'>
+                <h3 className='p-2 group/project1 w:full px-10 md:px-0 md:w-[350px] lg:w-w412 text-white md:mr-12 lg:mr-16 text-lg md:text-[22px] lg:text-[24px] font-medium font-robo pb-6 md:pb-10 text-center sm:px-20 lg:pt-8 md:leading-[32px] lg:leading-[40px]'>
                 A Cryptocurrency real-time price tracking web application.
                 </h3>
                 <RouterLink to='/casestudy3' className='relative group/project1'>
@@ -325,7 +325,7 @@ export default function Home() {
                     <BsArrowRight 
                       className='absolute lg:top-[20px] lg:left-[256px] md:top-[14px] md:left-[236px] z-10 text-white hover:text-black transition-colors duration-10' 
                     />
-                    <div className='group-hover/project3:w-[190px] bg-[#93C5FD] w-[68px] h-[50px] absolute top-0 left-[115px] duration-500 ease-in-out'></div>
+                    <div className='group-hover/project1:w-[190px] bg-[#93C5FD] w-[68px] h-[50px] absolute top-0 left-[115px] duration-500 ease-in-out'></div>
                   </div>
                 </RouterLink>
               </div>
@@ -345,7 +345,7 @@ export default function Home() {
             </RouterLink>
             <RouterLink to='/casestudy4'>
               <div className='md:ml-6'>
-                <h3 className='p-2 group/project4 w:full px-10 md:px-0 md:w-[350px] lg:w-w412 text-white md:mr-12 lg:mr-16 text-lg md:text-[22px] lg:text-[24px] font-medium font-robo pb-6 md:pb-10 text-center sm:px-20 lg:pt-8 md:leading-[32px] lg:leading-[40px]'>
+                <h3 className='p-2 group/project1 w:full px-10 md:px-0 md:w-[350px] lg:w-w412 text-white md:mr-12 lg:mr-16 text-lg md:text-[22px] lg:text-[24px] font-medium font-robo pb-6 md:pb-10 text-center sm:px-20 lg:pt-8 md:leading-[32px] lg:leading-[40px]'>
                 A Cryptocurrency real-time price tracking web application.
                 </h3>
                 <RouterLink to='/casestudy4' className='relative group/project1'>
@@ -354,7 +354,7 @@ export default function Home() {
                     <BsArrowRight 
                       className='absolute lg:top-[20px] lg:left-[256px] md:top-[14px] md:left-[236px] z-10 text-white hover:text-black transition-colors duration-10' 
                     />
-                    <div className='group-hover/project4:w-[190px] bg-[#93C5FD] w-[68px] h-[50px] absolute top-0 left-[115px] duration-500 ease-in-out'></div>
+                    <div className='group-hover/project1:w-[190px] bg-[#93C5FD] w-[68px] h-[50px] absolute top-0 left-[115px] duration-500 ease-in-out'></div>
                   </div>
                 </RouterLink>
               </div>
