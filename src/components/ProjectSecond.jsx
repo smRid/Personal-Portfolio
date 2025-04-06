@@ -133,8 +133,8 @@ export default function ProjectSecond() {
           <Link to="https://react-todo-three-tawny.vercel.app/">
           <EventProject heading="Todo Design" para="React" src={reactProject3}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-3_Innovate/">
-          <EventProject heading="Innovate2 Design" para="Html" src={htmlProject3}/>
+          <Link to="https://smrid.github.io/Responsive-Landing-Page/">
+          <EventProject heading="Food Website" para="Html" src={htmlProject3}/>
           </Link>
           <Link to="https://sajibkhandev.github.io/Project-4_InnovateYouSulition/">
           <EventProject heading="You Sulition Design" para="Html" src={htmlProject4}/>
@@ -164,8 +164,8 @@ export default function ProjectSecond() {
            <Link to="https://sajibkhandev.github.io/Project-7_Innovate2/">
           <EventProject heading="Innovate Design" para="Html" src={htmlProject7}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-3_Innovate/">
-          <EventProject heading="Innovate2 Design" para="Html" src={htmlProject3}/>
+          <Link to="https://smrid.github.io/Responsive-Landing-Page/">
+          <EventProject heading="Food Website" para="Html" src={htmlProject3}/>
           </Link>
           <Link to="https://smrid.github.io/Agenc-project/">
           <EventProject heading="Agenc Website" para="Html" src={htmlProject2}/>
