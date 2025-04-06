@@ -115,8 +115,8 @@ export default function ProjectSecond() {
           <Link to="https://project-12-slider.vercel.app/">
           <EventProject heading="Slider" para="Jscript" src={javaScriptProject2}/>
           </Link>
-         <Link to="https://sajibkhandev.github.io/Project-5_Avada/">
-          <EventProject heading="Avada Design" para="Html" src={htmlProject5}/>
+         <Link to="https://smrid.github.io/Contact-Form-Animation/">
+          <EventProject heading="Contact Form" para="Html" src={htmlProject5}/>
           </Link>
           <Link to="https://sajibkhandev.github.io/Project-8_Qwery/">
           <EventProject heading="Query Design" para="Html" src={htmlProject8}/>
@@ -136,8 +136,8 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Responsive-Landing-Page/">
           <EventProject heading="Food Website" para="Html" src={htmlProject3}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-4_InnovateYouSulition/">
-          <EventProject heading="You Sulition Design" para="Html" src={htmlProject4}/>
+          <Link to="https://smrid.github.io/Card-Pricing-Design/">
+          <EventProject heading="Card Pricing Design" para="Html" src={htmlProject4}/>
           </Link>
           <Link to="https://react-form-jade.vercel.app/">
           <EventProject heading="Form Design" para="React" src={reactProject4}/>
@@ -170,11 +170,11 @@ export default function ProjectSecond() {
           <Link to="https://smrid.github.io/Agenc-project/">
           <EventProject heading="Agenc Website" para="Html" src={htmlProject2}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-4_InnovateYouSulition/">
-          <EventProject heading="You Sulition Design" para="Html" src={htmlProject4}/>
+          <Link to="https://smrid.github.io/Card-Pricing-Design/">
+          <EventProject heading="Card Pricing Design" para="Html" src={htmlProject4}/>
           </Link>
-          <Link to="https://sajibkhandev.github.io/Project-5_Avada/">
-          <EventProject heading="Avada Design" para="Html" src={htmlProject5}/>
+          <Link to="https://smrid.github.io/Contact-Form-Animation/">
+          <EventProject heading="Contact Form" para="Html" src={htmlProject5}/>
           </Link>
           <Link to="https://sajibkhandev.github.io/Project-6_Omha/">
           <EventProject heading="Ohma Design" para="Html" src={htmlProject6}/>
