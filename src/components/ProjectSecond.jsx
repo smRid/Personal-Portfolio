@@ -142,7 +142,7 @@ export default function ProjectSecond() {
           <Link to="https://react-form-jade.vercel.app/">
           <EventProject heading="Form Design" para="React" src={reactProject4}/>
           </Link>
-          <Link to="javaScriptProject3.png">
+          <Link to="smrid.github.io/Expense-Tracker-App/">
           <EventProject heading="Expense Tracker Appp" para="Jscript" src={javaScriptProject3}/>
           </Link>
           <Link to="https://smrid.github.io/PSD-Project/">
